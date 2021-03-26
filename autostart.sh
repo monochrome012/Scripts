@@ -1,7 +1,7 @@
 #! /bin/bash
 
 picom &
-# qv2ray &
+qv2ray &
 blueman-applet &
 nm-applet &
 slstatus &

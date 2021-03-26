@@ -1,2 +1,3 @@
 #!/bin/bash
-pactl set-sink-volume @DEFAULT_SINK@ -10%
+amixer set Master 5%- umute
+
